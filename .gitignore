@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+*.egg-info/
+.venv/
+.env
+.env.*
+!.env.example
+results/
+data/
+PAMAP2_Dataset/
+*.dat
+.DS_Store
